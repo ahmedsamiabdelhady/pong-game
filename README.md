@@ -3,5 +3,5 @@
 ## Run
 
 ```
-Runit as a Python script
+Run it as a Python script
 ```
